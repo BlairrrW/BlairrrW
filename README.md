@@ -1,9 +1,8 @@
 # Hi, I'm Blair Wang 👋
+**Data Analyst · Web3 On-Chain Risk Analyst (in progress) · Risk Control & Anomaly Detection**
 
-**Data Analyst · Web3 Enthusiast · Risk & Compliance**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kkwwym-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kkwwym/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4B9CD3?style=flat)](https://kkwwym.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blairrr-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/blairrr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4B9CD3?style=flat)](https://blairrrw.github.io)
 
 ---
 
@@ -11,11 +10,11 @@
 
 ```python
 class Blair:
-    role     = "Data Analyst @ Gaming Platform (InJoi)"
-    exp      = "3+ yrs data engineering & analytics | 7+ yrs financial risk"
-    degree   = ["M.S. Applied Mathematics", "B.S. Statistics"]
+    role     = "Data Analyst — Risk Control & Anomaly Detection @ High-Frequency Data Platform"
+    exp      = "3+ yrs anomaly detection & risk analytics | 7+ yrs banking & financial risk"
+    degree   = ["M.S. Applied Mathematics, NCHU", "B.S. Statistics, TKU"]
     cert     = "ACAMS Certified (Anti-Money Laundering)"
-    seeking  = "Web3 Data Analyst / On-chain Analyst roles"
+    seeking  = "Web3 Risk Analyst / On-chain Risk Analyst / Exchange Risk Data Analyst"
     location = "Taiwan"
 ```
 
@@ -25,27 +24,29 @@ class Blair:
 
 | Project | Domain | Stack |
 |---|---|---|
-| [Real-Time Risk Control Engine](#) | Gaming Risk · Anomaly Detection | BigQuery · Python · Airflow |
-| [Player Behavioral Anomaly Detection](#) | Bot Detection · Risk Scoring | SQL Server · Python |
-| [Player Risk Classification](#) | Compliance · AML | BigQuery · Tableau |
-| [Web3 On-chain Analytics](#) *(coming soon)* | DeFi · Protocol Analysis | Dune Analytics · Flipside |
+| [Airdrop Hunter & Sybil Wallet Detection](./project-sybil.html) | On-Chain · Wallet Behavior | Isolation Forest · Python |
+| [User Behavioral Profiling & Segmentation](./project-01.html) | Anomaly Detection · Unsupervised ML | PCA/SVD · Python |
+| [Real-Time Withdrawal Risk Control Engine](./project-02.html) | Risk Control · Real-Time Monitoring | Rule Engine · SQL |
+| [Multi-Condition Risk Scoring vs. Single-Threshold Alerts](./project-03.html) | False-Positive Reduction · Feature Engineering | Python · Simulation |
+| [Business Analytics Case Collection](./project-04.html) | Funnel · Churn · Segmentation · ROI | SQL · Tableau |
+| Web3 On-Chain Analytics *(in progress)* | DeFi Risk · Protocol-Level Analysis | Dune Analytics (SQL) |
 
 ---
 
 ## 🛠 Tech Stack
 
 **Data & Analytics**
-`BigQuery` `SQL Server` `Python` `Apache Airflow` `Tableau`
+`SQL` `BigQuery` `Python` `Tableau`
 
-**Web3 / On-chain**
-`Dune Analytics` `Flipside Crypto` `Nansen` `Glassnode`
+**Web3 / On-Chain**
+`Dune Analytics`
 
 **Domain Expertise**
-`Gaming Platform Analytics` `AML / Compliance` `Risk Control Systems` `Real-time Alerting`
+`Anomaly Detection` `Risk Control Systems` `Real-Time Alerting` `AML / Compliance`
 
 ---
 
 ## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kkwwym/)
-- 🌐 [Portfolio](https://kkwwym.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/blairrr)
+- 💻 [GitHub](https://github.com/BlairrrW)
+- 🌐 [Portfolio](https://blairrrw.github.io)
