@@ -1,5 +1,5 @@
 # Hi, I'm Blair Wang 👋
-**Data Analyst · Web3 On-Chain Risk Analyst (in progress) · Risk Control & Anomaly Detection**
+**Data Analyst · Web3 Enthusiast · Risk Control & Anomaly Detection**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blairrr-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/blairrr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4B9CD3?style=flat)](https://blairrrw.github.io/portfolio/)
