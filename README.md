@@ -25,9 +25,9 @@ class Blair:
 | Project | Domain | Stack |
 |---|---|---|
 | [Airdrop Hunter & Sybil Wallet Detection](https://blairrrw.github.io/portfolio/project-sybil.html) | On-Chain · Wallet Behavior | Isolation Forest · Python |
-| [User Behavioral Profiling & Segmentation](https://blairrrw.github.io/portfolio/project-01.html) | Anomaly Detection · Unsupervised ML | PCA/SVD · Python |
-| [Real-Time Withdrawal Risk Control Engine](https://blairrrw.github.io/portfolio/project-02.html) | Risk Control · Real-Time Monitoring | Rule Engine · SQL |
-| [Multi-Condition Risk Scoring vs. Single-Threshold Alerts](https://blairrrw.github.io/portfolio/project-03.html) | False-Positive Reduction · Feature Engineering | Python · Simulation |
+| [User Behavioral Profiling & Segmentation: Building a Multi-dimensional Tagging Infrastructure](https://blairrrw.github.io/portfolio/project-01.html) | Anomaly Detection · Unsupervised ML | PCA/SVD · Python |
+| [From Manual Review to Real-Time Defense: An Automated Dual-Defense Engine for Withdrawal Risk Control](https://blairrrw.github.io/portfolio/project-02.html) | Risk Control · Real-Time Monitoring | Rule Engine · SQL |
+| [Fewer False Alarms, Better UX: How Multi-condition Risk Scoring Replaced Single-Threshold Alerts](https://blairrrw.github.io/portfolio/project-03.html) | False-Positive Reduction · Feature Engineering | Python · Simulation |
 | [Business Analytics Case Collection](https://blairrrw.github.io/portfolio/project-04.html) | Funnel · Churn · Segmentation · ROI | SQL · Tableau |
 
 ---
