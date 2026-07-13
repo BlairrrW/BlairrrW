@@ -14,7 +14,6 @@ class Blair:
     exp      = "3+ yrs anomaly detection & risk analytics | 7+ yrs banking & financial risk"
     degree   = ["M.S. Applied Mathematics, NCHU", "B.S. Statistics, TKU"]
     cert     = "ACAMS Certified (Anti-Money Laundering)"
-    seeking  = "Web3 Risk Analyst / On-chain Risk Analyst / Exchange Risk Data Analyst"
     location = "Taiwan"
 ```
 
