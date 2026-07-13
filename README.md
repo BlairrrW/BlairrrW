@@ -42,10 +42,6 @@ class Blair:
 **Domain Background**
 `Banking & AML` `High-Frequency Trading Platforms` `Web3`
 
-**Education**
-`MS Applied Mathematics, NCHU`
-`BS Statistics, TKU`
-
 ---
 
 ## 📫 Let's Connect
