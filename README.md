@@ -1,5 +1,5 @@
 # Hi, I'm Blair Wang 👋
-**Data Analyst · Web3 Enthusiast · Risk Control & Anomaly Detection**
+**Data Analyst · Risk Strategy · Fraud Detection**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blairrr-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/blairrr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4B9CD3?style=flat)](https://blairrrw.github.io/portfolio/)
@@ -19,15 +19,15 @@ class Blair:
 
 ---
 
-## 🔍 Featured Projects
 
-| Project | Domain | Stack |
-|---|---|---|
-| [Airdrop Hunter & Sybil Wallet Detection](https://blairrrw.github.io/portfolio/project-sybil.html) | On-Chain · Wallet Behavior | Isolation Forest · Python |
-| [User Behavioral Profiling & Segmentation: Building a Multi-dimensional Tagging Infrastructure](https://blairrrw.github.io/portfolio/project-01.html) | Anomaly Detection · Unsupervised ML | PCA/SVD · Python |
-| [From Manual Review to Real-Time Defense: An Automated Dual-Defense Engine for Withdrawal Risk Control](https://blairrrw.github.io/portfolio/project-02.html) | Risk Control · Real-Time Monitoring | Rule Engine · SQL |
-| [Fewer False Alarms, Better UX: How Multi-condition Risk Scoring Replaced Single-Threshold Alerts](https://blairrrw.github.io/portfolio/project-03.html) | False-Positive Reduction · Feature Engineering | Python · Simulation |
-| [Business Analytics Case Collection](https://blairrrw.github.io/portfolio/project-04.html) | Funnel · Churn · Segmentation · ROI | SQL · Tableau |
+## 🔍 Featured Projects
+| Project | Domain | Stack | What I Did | Impact |
+|---|---|---|---|---|
+| Airdrop Hunter & Sybil Wallet Detection | On-Chain · Wallet Behavior | Isolation Forest · Python | Built an unsupervised detection pipeline applying behavioral clustering and deviation scoring to on-chain wallet activity | In progress — targeting Sybil attackers and airdrop hunters simulating organic activity at scale |
+| User Behavioral Profiling & Segmentation: Building a Multi-dimensional Tagging Infrastructure | Anomaly Detection · Unsupervised ML | PCA/SVD · KMeans · Python | Architected a five-module framework from scratch — Z-Score weighted scoring + unsupervised clustering across individual, group, game-system, and cross-entity dimensions | 78% precision confirmed by risk team · Zero false positives since deployment |
+| From Manual Review to Real-Time Defense: An Automated Dual-Defense Engine for Withdrawal Risk Control | Risk Control · Real-Time Monitoring | Rule Engine · BigQuery | Led end-to-end delivery — architecture design, cross-functional alignment with stakeholders, production rollout with engineering team | Risk exposure compressed from 1–2 hrs to under 15 min · Rule-bypass case intercepted and confirmed in live environment |
+| Fewer False Alarms, Better UX: How Multi-condition Risk Scoring Replaced Single-Threshold Alerts | False-Positive Reduction · Simulation Validation | Python · Feature Engineering | Redesigned single-threshold alerts into a multi-dimensional risk scorecard — ML predictions + game performance metrics + user profile signals, validated across 6 historical configurations | Ticket volume ↓72% · Auto-suspensions ↓80% · Review time ↓50% |
+| Business Analytics Case Collection: Funnel · Segmentation · Churn · ROI | Cross-functional Analytics · BI | SQL · Tableau | Four cross-functional cases — homepage funnel mapping, brand concentration segmentation, churn profile diagnosis, seasonal campaign ROI evaluation | Funnel redesign adopted · 2 churn profiles → differentiated strategies · Campaign ROI = 4.54 · Brand segmentation informed partnership prioritization |
 
 ---
 
