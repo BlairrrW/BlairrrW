@@ -21,4 +21,37 @@ class Blair:
 
 ## 🔍 Featured Projects
 
-- Graph-Based
+- Graph-Based Sybil Wallet Detection & Airdrop Fraud Clustering
+- Behavioral Profiling with Unsupervised Learning: A Multi-dimensional Feature Framework
+- Real-Time Anomaly Detection Engine for Automated Risk Decisioning
+- Feature-Based Risk Scoring Model: Reducing False Positives via Multi-condition Classification
+- Lobby Page Funnel Drop-off Analysis: Diagnosing Navigation Failure
+- Brand Preference Segmentation: A Foundation for Personalized Recommendation
+- Cross-Market Churn Prediction: Behavioral Profiling for Targeted Re-engagement
+- Seasonal Campaign ROI Modeling & Re-engagement Timing Analysis
+
+---
+
+## 🛠 Tech Stack
+
+**Modeling & Programming**
+`Python` `R` `SQL` `SAS` `Machine Learning` `Statistical Modeling`
+
+**Data Engineering & Infrastructure**
+`Google BigQuery` `MS SQL Server` `Airflow`
+
+**Visualization & BI**
+`Tableau` `QlikView` `Power BI` `Metabase` `Looker Studio` `Dune Analytics`
+
+**Analytical Methodologies**
+`Behavioral Analytics` `Anomaly Detection` `A/B Testing` `Feature Engineering` `AI / MCP Application`
+
+**Product & Digital Analytics**
+`Product Analysis` `GA4` `GTM` `Hotjar`
+
+---
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/blairrr)
+- 🌐 [Portfolio](https://blairrrw.github.io/portfolio/)
+- 📧 [blairrr.wang@gmail.com](mailto:blairrr.wang@gmail.com)
