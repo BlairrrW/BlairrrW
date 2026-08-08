@@ -12,14 +12,8 @@ Specialized in data analytics and machine learning, with hands-on experience in 
 ```python
 class Blair:
     role     = "Data Scientist & Analyst"
-    degree   = [
-        "M.S. Applied Mathematics, NCHU",
-        "B.S. Statistics, TKU"
-    ]
-    cert     = [
-        "ACAMS Certified (Anti-Money Laundering)",
-        "TOEIC 840"
-    ]
+    degree   = [ "M.S. Applied Mathematics, NCHU", "B.S. Statistics, TKU"]
+    cert     = [ "ACAMS Certified (Anti-Money Laundering)", "TOEIC 840"]
     location = "Taiwan"
 ```
 
