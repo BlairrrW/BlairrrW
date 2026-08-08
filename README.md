@@ -9,7 +9,7 @@ Specialized in data analytics and machine learning, with hands-on experience in 
 
 ## About Me
 
-​```python
+```python
 class Blair:
     role     = "Data Scientist & Analyst"
     degree   = [
@@ -21,7 +21,7 @@ class Blair:
         "TOEIC 840"
     ]
     location = "Taiwan"
-​```
+```
 
 ---
 
